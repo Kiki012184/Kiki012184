@@ -1,0 +1,61 @@
+body { 
+    margin: 40px 50px 30px; 
+    background-color: rgba(255,255,255,.7); 
+    background-image: url("BKW.gif"); 
+    background-attachment: fixed; 
+    color: #FFFFFF;
+}
+.tbl-border{
+    border: 2px solid gray;
+    max-width: 350px;
+    width: 500px;
+}
+.tbl { 
+    color: rgb(72, 72, 72); 
+    font-size: 11px; 
+    padding: 4px; 
+}
+.tbl0 { 
+    background-color: rgb(220, 220, 220); 
+    color: rgb(72, 72, 72); 
+    font-size: 11px; 
+    padding: 4px; 
+    text-align: center;
+}
+.tbl1 { 
+    background-color: rgb(240, 240, 240); 
+    color: rgb(72, 72, 72); 
+    font-size: 11px; 
+    padding: 4px; 
+    text-align: center;
+}
+.tbl2 { 
+    background-color: rgb(232, 232, 232); 
+    color: rgb(72, 72, 72); 
+    font-size: 11px; padding: 4px; 
+    font-weight: bold;
+    text-align: center;
+}
+a {
+    color: gray;
+    text-decoration: none;
+}
+a hover{
+    background: rgba(255,255,255,.4);
+    font-weight: bold;
+}
+a visited{
+    color: gray;
+    text-decoration: none;
+}
+.tbl1 a{
+    background: cyan;
+    color: rgb(72,72,72);
+    width: 100%;
+}
+.footer{
+    background: rgb(232,232,232);
+    color: black;
+    width: 100%;
+    font-size: 50%;
+}
