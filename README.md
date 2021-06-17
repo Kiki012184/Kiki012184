@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 
+
+Hello Guest,Im Kiki012 <br>
+Im Some Random Indonesian People Who Does Translating, Programming, And Pixel art drawing<br>
+Im Currently 14 Years Old<br><hr><br>
+Im Currently Working on:<br>
+Indonesia renewal pack<br>
+Translating FIRS 4.0<br>
+Im Currently Looking for Collaborate on:<br>
+Translating stuff
 
 <!--
 **Kiki012184/Kiki012184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
