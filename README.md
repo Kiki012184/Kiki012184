@@ -11,6 +11,8 @@ Read More About Me at my website.<hr>
 <a href="https://www.facebook.com/profile.php?id=100041466228888"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br><hr>
 <img src="https://github-readme-stats.vercel.app/api?username=Kiki012184">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiki012184" Width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiki012184">
 
 <!--
 Hello Guest,Im Kiki012 <br>
