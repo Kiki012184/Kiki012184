@@ -1,12 +1,10 @@
-## Introduction!
-___
-Hi! I'm **Enggar Rizki Maulana**, better known as **Kiki**. I'm a content creator in several games, and a self-taught programmer. My content is mostly open source on GitHub, and I've been creating content since 2018.
+**About Me!**
 
 
-I play games where my content has been created, too—and I'm also known as an Indonesian translator on several games voluntarily.
+Hey there! It's Kiki, a simple high school student from Indonesia. When I'm not in class, you can find me gaming or programming - it's my escape from harsh reality. <br />
 
+Did I mention that my favorite animal is a fox and my all-time favorite anime is "No game no life"? It's all about living life to the fullest and having fun.<br />
 
-Besides that, I like to learn new languages and create content in my spare time! For now, I live in Banyuwangi, East Java, Indonesia.
-## Contacts
-___
-[My Website (**WIP**!).](https://kiki012.carrd.co/)
+Wanna know more about me? Check out my website!
+
+[My Website.](https://bit.ly/K012WEB)
