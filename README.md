@@ -1,5 +1,6 @@
 # 💫 About Me:
 Idk what to put here lmao...
+![Cover Image](https://w.wallhaven.cc/full/gj/wallhaven-gjodoq.jpg)
 
 
 ## 🌐 Socials:
